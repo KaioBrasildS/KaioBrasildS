@@ -71,4 +71,8 @@ Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contat
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/kaio-brasil-a25aba2a3/)
 
+(mailto:kaiobrasil.work@gmail.com)
+
 [![Instagram](https://img.shields.io/badge/Instagram-369?style=flat-square&logo=instagram&logoColor=white&color=purple)](https://www.instagram.com/kainhoreidela/)
+
+
