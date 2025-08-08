@@ -23,12 +23,12 @@ Bem-vindo ao meu perfil no GitHub! Aqui estão alguns dos projetos que estou des
         <td width="50%" style="text-align: center; padding: 10px;">
             <img src="images/anp_logo.png" style="width: 60%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
             <h3><a href="https://github.com/KaioBrasildS/Precos-de-Combustiveis-ANP" style="text-decoration: none; color: #333; font-weight: bold;">Preços de Combustíveis ANP</a></h3>
-            <p style="color: #666;">Análise de preços de combustíveis coletados pela ANP, gerando insights sobre variações e tendências de preços no Brasil.</p>
+            <p style="color: blue;">Análise de preços de combustíveis coletados pela ANP, gerando insights sobre variações e tendências de preços no Brasil.</p>
         </td>
         <td width="100%" style="text-align: center; padding: 10px;">
             <a href="https://github.com/KaioBrasildS/Chatbot" style="text-decoration: none; color: inherit;">
                 <img src="gis/chatbot.gif" style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-                <h3 style="margin-top: 10px; font-weight: bold;">Chatbot de Análise de Preços do Café</h3>
+                <h3 style="color: blue; margin-top: 10px; font-weight: bold;">Chatbot de Análise de Preços do Café</h3>
             </a>
         </td>
     </tr>
