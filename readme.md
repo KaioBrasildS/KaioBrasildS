@@ -25,11 +25,11 @@ Bem-vindo ao meu perfil no GitHub! Aqui estão alguns dos projetos que estou des
             <h3><a href="https://github.com/KaioBrasildS/Precos-de-Combustiveis-ANP" style="text-decoration: none; color: #333; font-weight: bold;">Preços de Combustíveis ANP</a></h3>
             <p style="color: #666;">Análise de preços de combustíveis coletados pela ANP, gerando insights sobre variações e tendências de preços no Brasil.</p>
         </td>
-        <td width="50%" style="text-align: center; padding: 10px;">
-            <img src="images/ann_logo.jpg" style="width: 60%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-            <h3><a href="https://github.com/KaioBrasildS/Representations_Model_ANN" style="text-decoration: none; color: #333; font-weight: bold;">Representations Model ANN</a></h3>
-            <p style="color: #666;">Aplicação de Redes Neurais Artificiais (ANN) para gerar representações de dados e realizar tarefas de classificação e regressão.</p>
-        </td>
+      <td width="50%" style="text-align: center; padding: 10px;">
+          <img src="gis/chatbot.gif" style="width: 60%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+          <h3><a href="https://github.com/KaioBrasildS/Chatbot" style="text-decoration: none; color: #333; font-weight: bold;">Chatbot de Análise de Preços do Café</a></h3>
+          <p style="color: #666;">Chatbot inteligente para análise de preços do café, com respostas baseadas em dados reais e geração de visualizações personalizadas em Python, utilizando API da Groq com modelo LLaMA 3.</p>
+    </td>
     </tr>
 </table>
 
@@ -57,13 +57,15 @@ Bem-vindo ao meu perfil no GitHub! Aqui estão alguns dos projetos que estou des
 ## Habilidades
 
 ### Linguagens:
-- **Python** (pandas, numpy, scikit-learn, matplotlib, seaborn, streamlit)
+- **Python** (pandas, numpy, scikit-learn, matplotlib, seaborn, streamlit, Pymc)
 
 ### Competências Técnicas:
 - **Machine Learning**
 - **Análise Estatística**
 - **Visualização de Dados**
 - **Git/Github**
+- **MySQL**
+- **DuckDB**
 
 ---
 
