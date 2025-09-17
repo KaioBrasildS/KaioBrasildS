@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui estão alguns dos projetos que estou des
 <table width="100%" style="border-collapse: separate; border-spacing: 20px;">
     <tr>
         <td width="50%" style="text-align: center; padding: 10px; background-color: #f8f9fa; border-radius: 10px;">
-            <img src="gis/DesignIMDB.gif" style="width: 60%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+            <img src="gis/DesignIMDB.gif" style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
             <h3><a href="https://github.com/KaioBrasildS/LH_CD_KAIOBRASIL" style="text-decoration: none; color: #333; font-weight: bold;">LH_CD_KAIOBRASIL</a></h3>
             <p style="color: #666;">Desenvolvimento de análise e visualização de dados de ranking IMDb de filmes, otimizando decisões.</p>
         </td>
